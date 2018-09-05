@@ -1,6 +1,6 @@
 # Knative Events
 
-Knative Events is a system which is designed to address a common need for cloud
+Knative Events is a component of Knative that is designed to address a common need for cloud
 native development:
 
 1.  Services are loosely coupled during development and deployed independently
